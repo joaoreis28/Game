@@ -1,0 +1,37 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "#texturas": {
+            "dynamicWrapping": false
+        },
+        "map.tmx": {
+            "scale": 0.8183854166666666,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 960.4276713549292,
+                "y": 320.1425571183097
+            }
+        },
+        "map.tmx#texturas": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Usuário/Documents/Fazendocerto/SDL_video",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 60,
+    "openFiles": [
+        "map.tmx"
+    ],
+    "project": "jogo.tiled-project",
+    "recentFiles": [
+        "map.tmx"
+    ],
+    "tileset.embedInMap": true
+}

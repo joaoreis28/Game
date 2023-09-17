@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<textures>
+    <texture id = "player_run" source = "assests/Samurai/Run.png"/>
+    <texture id = "player_idle" source = "assests/Samurai/Idle.png"/>
+    <texture id = "player_jump" source = "assests/Samurai/Jump.png"/>
+    <texture id = "player_fall" source = "assests/Samurai/Fall.png"/>
+    <texture id = "player_crouch" source = "assests/Samurai/Attack2.png"/>
+    <texture id = "player_attack" source = "assests/Samurai/Attack1.png"/>
+
+    <texture id = "bg" source = "assests/Background.png"/>
+
+</textures>
